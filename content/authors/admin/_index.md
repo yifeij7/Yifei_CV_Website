@@ -45,15 +45,15 @@ interests:
 education:
   - area: Ph.D. Electrical and Computer Engineering
     institution: University of Illinois at Urbana-Champaign
-    date_start: 08-2021
-    date_end: Expected 05-2026
+    date_start: 2021-08
+    date_end: Expected 2026-05
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
 
   - area: BS Electrical and Computer Engineering
     institution: Worcester Polytechnic Institute
-    date_start: 08-2016
-    date_end: 05-2019
+    date_start: 2016-08
+    date_end: 2019-05
     summary: |
       GPA: 3.4/4.0
       
@@ -66,8 +66,8 @@ work:
     company_name: University of Illinois at Urbana-Champaign
     company_url: ''
     company_logo: ''
-    date_start: 08-2023
-    date_end: 12-2023
+    date_start: 2023-08
+    date_end: 2023-12
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
@@ -77,8 +77,8 @@ work:
     company_name: Teradyne
     company_url: https://www.teradyne.com/
     company_logo: 
-    date_start: 07-2019
-    date_end: 04-2021
+    date_start: 2019-07
+    date_end: 2021-04
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
