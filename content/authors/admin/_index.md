@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yifei's Website
+title: Yifei Jin
 
 # Name pronunciation (optional)
 
