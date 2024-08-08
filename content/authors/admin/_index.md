@@ -161,4 +161,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yifei Jin is a Ph.D. candidate majored in Electrical and Computer Engineering guided by Dr.Viktor Gruev at the University of Illinois at Urbana-Champaign. My research interests include design and development of multispectral imaging systems for image guided cancer surgeries and intraoperative pathology. I am activly seeking an optical and electrical engineering internship for Summer 2025.
