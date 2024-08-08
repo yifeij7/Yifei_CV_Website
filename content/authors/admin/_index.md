@@ -1,13 +1,12 @@
 ---
 # Display name
-title: 吳健雄
+title: Yifei's Website
 
 # Name pronunciation (optional)
-#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: ss Wu
-last_name: Chien
+first_name: Yifei
+last_name: Jin
 
 # Status emoji
 status:
