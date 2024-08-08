@@ -32,18 +32,10 @@ profiles:
   - icon: at-symbol
     url: 'yifeij7@illinois.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/yifeij7
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yifei-jin-29993a12a/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
   - Camera System
