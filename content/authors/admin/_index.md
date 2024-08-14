@@ -157,4 +157,4 @@ awards:
 
 ## About Me
 
-Yifei Jin is a Ph.D. candidate majored in Electrical and Computer Engineering guided by Dr.Viktor Gruev at the University of Illinois at Urbana-Champaign. My research interests include design and development of multispectral imaging systems for image guided cancer surgeries and intraoperative pathology. I am activly seeking an optical and electrical engineering internship for Summer 2025.
+Yifei Jin is an ECE Ph.D. candidate advised by Dr.Viktor Gruev at the University of Illinois at Urbana-Champaign. My research interests include design and development of multispectral imaging systems for image guided cancer surgeries. Before joining in Dr.Gruev's lab, I was a hardware engineer responding to circit verifications for automatic test equipments at Teradyne in North Reading Massachusetts. I am skilled in optoelectronic characterization, hardware engineering, computer vision, and machine learning. I am activly seeking an optical and electrical engineering internship for Summer 2025.
