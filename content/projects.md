@@ -1,7 +1,10 @@
 ---
 title: Publications
-cms_exclude: true
-
+text: ""
+filters:
+  folders:
+    - publication
+  exclude_featured: false
 # View.
 view: citation
 
