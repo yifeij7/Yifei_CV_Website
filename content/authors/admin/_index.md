@@ -36,7 +36,7 @@ profiles:
 interests:
   - Camera System
   - Cancer Imaging
-  - Computer Vision
+  - Computer Vision/Machine Learning
   - Hardware Engineering
 
 education:
