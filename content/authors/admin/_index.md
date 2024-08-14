@@ -45,7 +45,7 @@ education:
     date_start: 2021-08-16
     expected date_end: 2026-05-16
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented at 5 IEEE conferences with the contributions being published in 2 Springer journals.
   - area: BS Electrical and Computer Engineering
     institution: Worcester Polytechnic Institute
     date_start: 2016-08-23
