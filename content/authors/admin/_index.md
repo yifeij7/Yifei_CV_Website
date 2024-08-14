@@ -8,10 +8,6 @@ title: Yifei Jin
 first_name: Yifei
 last_name: Jin
 
-# Status emoji
-status:
-  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
