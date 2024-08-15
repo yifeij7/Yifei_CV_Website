@@ -54,7 +54,7 @@ education:
     date_end: 2019-05-06
     summary: |
       - Graduation with high distinction
-      - Designed a spine posture monitoring system with fall detection as Major Qualified Project in a group of three.
+      - Designed a posture monitoring system with fall detection in a group of three.
       - Dean List for three years
       - Secretary of Chinese Student Association 
 
