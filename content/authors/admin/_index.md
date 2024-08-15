@@ -98,8 +98,22 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: eee
-
+  - name: ssss
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hikingsss
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
 
 languages:
   - name: English
