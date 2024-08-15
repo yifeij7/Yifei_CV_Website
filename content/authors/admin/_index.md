@@ -87,7 +87,6 @@ skills:
   - name: Programming
     items:
       - name: Python
-      - name: Pytorch
       - name: OpenCV
       - name: Verilog
 
