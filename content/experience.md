@@ -20,9 +20,12 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: Skillsoo
+      title: Skills & Hobbies
       username: admin
     design:
       show_skill_percentage: false
-
+  - block: resume-languages
+    content:
+      title: Languages
+      username: admin
 ---
