@@ -98,7 +98,7 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: 
+  - name: eee
 
 
 languages:
