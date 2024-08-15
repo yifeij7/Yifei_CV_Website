@@ -45,7 +45,7 @@ education:
     date_start: 2021-08-16
     expected date_end: 2026-05-16
     summary: |
-      - Guided by Dr.Viktor Gruev
+      - Graduate Research Assistant guided by Dr.Viktor Gruev
       - Designing and developing multispectral cameras for cancer imaging
       - Advancing image process routine based on machine learning
   - area: BS Electrical and Computer Engineering
