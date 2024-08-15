@@ -84,28 +84,27 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming
     items:
-      - name: Python
-      - name: Data Science
-      - name: SQL
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+      - name: Python/Pytorch/OpenCV
+      - name: Verilog/VHDL
+      - name: C/C++
+  - name: Software
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
+      - name: Vivado
+      - name: MATLAB/Simulink
+      - name: Cadence 
+  - name: Optical Equipment
+    items:
+      - name: Monochromator
+      - name: Spectroscopy
+      - name: Optomechanics  
+  - name: Laboratories
+    items:
+      - name: SPI/I²C
+      - name: Function Generator
+      - name: Oscilloscope  
+    
 languages:
   - name: English
     percent: 100
