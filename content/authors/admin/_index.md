@@ -88,7 +88,7 @@ skills:
     items:
       - name: Python
       - name: OpenCV
-      - name: Verilog
+      - name: C/C++
 
   - name: Software
     items:
