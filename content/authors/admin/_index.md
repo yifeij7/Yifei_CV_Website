@@ -86,15 +86,17 @@ work:
 skills:
   - name: Programming
     items:
-      - name: Python/Pytorch/OpenCV
-      - name: Verilog/VHDL
-      - name: C/C++
+      - name: Python
+      - name: Pytorch
+      - name: OpenCV
+      - name: Verilog
+
   - name: Software
     items:
       - name: Vivado
-      - name: MATLAB/Simulink
+      - name: MATLAB
       - name: Cadence 
-  - name: Optical Equipment
+  - name: Optical Device 
     items:
       - name: Monochromator
       - name: Spectroscopy
@@ -102,7 +104,7 @@ skills:
   - name: Laboratories
     items:
       - name: SPI/I²C
-      - name: Function Generator
+      - name: PCB
       - name: Oscilloscope  
     
 languages:
