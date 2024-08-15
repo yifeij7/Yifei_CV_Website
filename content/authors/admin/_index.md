@@ -86,8 +86,8 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Programing
-        description: 'sss'
+      - name: Python
+        description: ''
         percent: 80
         icon: code-bracket
       - name: Data Science
@@ -98,11 +98,11 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: ssss
+  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hikingsss
+      - name: Hiking
         description: ''
         percent: 60
         icon: person-simple-walk
