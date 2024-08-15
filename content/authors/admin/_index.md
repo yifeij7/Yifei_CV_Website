@@ -86,8 +86,8 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
+      - name: Programing
+        description: 'sss'
         percent: 80
         icon: code-bracket
       - name: Data Science
