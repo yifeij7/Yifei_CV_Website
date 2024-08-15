@@ -45,18 +45,19 @@ education:
     date_start: 2021-08-16
     expected date_end: 2026-05-16
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      - Guided by Dr.Viktor Gruev
+      - Designing and developing multispectral cameras for cancer imaging
+      - Advancing image process routine based on machine learning
   - area: BS Electrical and Computer Engineering
     institution: Worcester Polytechnic Institute
     date_start: 2016-08-23
     date_end: 2019-05-06
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Graduation with high distinction
+      - Designed a spine posture monitoring system with fall detection as Major Qualified Project in a group of three.
+      - Dean List for three years
+      - Secretary of Chinese Student Association 
+
 work:
   - position: Graduate Teaching Assistant
     company_name: University of Illinois at Urbana-Champaign
@@ -65,10 +66,9 @@ work:
     date_start: 2023-08-16
     date_end: 2023-12-16
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Instructed students in digital circuit design on FPGA, covering fundamental design concepts
+      - Taught SPI and I²C communication protocols, empowering students to integrate multiple sensors effectively 
+      - Led a final project where students designed a camera system based on FPGA, featuring real-time object tracking
   - position: Hardware Engineer
     company_name: Teradyne
     company_url: https://www.teradyne.com/
@@ -76,10 +76,9 @@ work:
     date_start: 2019-07-01
     date_end: 2021-04-11
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed power semiconductor DC testing instrument HVVI (high-voltage VI channel) module 
+      - Designed verification software through VB to implement bring-up and verification tests of circuit designs 
+      - Solved circuit designing problems in harmonic, glitch, noise, and bandwidth limitations 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
