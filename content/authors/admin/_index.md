@@ -26,7 +26,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: '"< a href="yifeij7@illinois.edu">yifei< /a>"'
+    url: 'mailto:yifeij7@illinois.edu'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/yifeij7
