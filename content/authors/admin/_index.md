@@ -109,9 +109,7 @@ skills:
     
 languages:
   - name: English
-    percent: 100
   - name: Chinese
-    percent: 100
 
 
 ---
