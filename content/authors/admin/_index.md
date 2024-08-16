@@ -78,7 +78,7 @@ work:
     date_start: 2019-07-01
     date_end: 2021-04-11
     summary: |
-      - Developed power semiconductor DC testing instrument HVVI (high-voltage VI channel) module 
+      - Developed power semiconductor DC testing instrument HVVI (high-voltage VI channel) module for UltraFlex Plus
       - Designed verification software through VB to implement bring-up and verification tests of circuit designs 
       - Solved circuit designing problems in harmonic, glitch, noise, and bandwidth limitations 
 
