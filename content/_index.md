@@ -55,7 +55,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
+          - citation
         exclude_featured: false
     design:
       view: citation
