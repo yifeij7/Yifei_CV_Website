@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Multispecrtal
+        Yifei's primary research field is developing  
     design:
       columns: '1'
   - block: collection
