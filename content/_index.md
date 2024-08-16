@@ -32,10 +32,13 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Research Abstract'
       subtitle: ''
       text: |-
-        Yifei's primary research field is developing  
+        Yifei's primary research field is developing a multispectral camera system for labeled and label-free fluorescence cancer imaging. The camera is inspired by the structre of mantis shrimp eye and able to image in UV, Visible and NIR spectrums in the same time. The research advances image-guided surgery and intraoperative pathology. Through the bioinspired multispectral camera system, I developed a lensless microscopy in UV-Visible-NIR spectrum. By using a holographic diffuser to replace expensive optical lens, the microscopy could reach even higher resolution and image in three-dimensions with a single shot. To demosaic our multispectral cameras' images in advance, I desgined a 20 layers convolution network with residuaing learning, which significantly improves image quality over traditional methods.
+
+
+
     design:
       columns: '1'
   - block: collection
