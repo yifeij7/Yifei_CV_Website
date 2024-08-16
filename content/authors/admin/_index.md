@@ -32,7 +32,7 @@ profiles:
     url: https://github.com/yifeij7
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yifei-jin-29993a12a/
-  - icon: brands/google
+  - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en-US&user=4C3fIBUAAAAJ
 
 interests:
