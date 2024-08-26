@@ -106,13 +106,7 @@ skills:
       - name: SPI/I²C
       - name: PCB
       - name: Oscilloscope  
-    
-languages:
-  - name: English
-  - name: Chinese
-
-
-
+  
 ---
 
 ## About Me
