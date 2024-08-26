@@ -47,7 +47,7 @@ sections:
       text: ""
       filters:
         folders:
-          - citation
+          - Publications
         exclude_featured: false
     design:
       view: citation
