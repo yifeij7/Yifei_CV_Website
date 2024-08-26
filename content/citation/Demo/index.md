@@ -63,7 +63,7 @@ url_source: 'https://www.science.org/doi/full/10.1126/sciadv.adk3860'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
