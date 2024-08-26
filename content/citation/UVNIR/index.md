@@ -12,11 +12,6 @@ authors:
   - Shuming Nie
   - Viktor Gruev
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
 date: '2024-07-01T00:00:00Z'
 doi: ''
 
