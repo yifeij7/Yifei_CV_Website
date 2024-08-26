@@ -40,6 +40,11 @@ publication: In *Hugo Blox Builder Conference*
 publication_short: In Science Advances
 
 abstract: Imaging and identifying target signatures and biomedical markers in the ultraviolet (UV) spectrum is broadly important to medical imaging, military target tracking, remote sensing, and industrial automation. However, current silicon-based imaging sensors are fundamentally limited because of the rapid absorption and attenuation of UV light, hindering their ability to resolve UV spectral signatures. Here, we present a bioinspired imaging sensor capable of wavelength-resolved imaging in the UV range. Inspired by the UV-sensitive visual system of the Papilio xuthus butterfly, the sensor monolithically combines vertically stacked photodiodes and perovskite nanocrystals. This imaging design combines two complementary UV detection mechanisms: The nanocrystal layer converts a portion of UV signals into visible fluorescence, detected by the photodiode array, while the remaining UV light is detected by the top photodiode. Our label-free UV fluorescence imaging data from aromatic amino acids and cancer/normal cells enables real-time differentiation of these biomedical materials with 99% confidence.
+# Summary. An optional shortened abstract.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
+tags:
+  - Large Language Models
 
 # Display this page in the Featured widget?
 featured: true
