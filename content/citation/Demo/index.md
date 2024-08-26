@@ -36,6 +36,6 @@ publishDate: '2023-01-01T00:00:00Z'
 publication_types: ['paper-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
+publication: In Science Advances
 publication_short: In Science Advances
 
