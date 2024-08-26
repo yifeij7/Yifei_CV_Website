@@ -55,7 +55,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'conference-paper.pdf'
+url_pdf: 'uploads/conference-paper.pdf'
 url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 
 # Featured image
