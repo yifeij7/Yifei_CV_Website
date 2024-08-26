@@ -49,12 +49,12 @@ tags:
   - Large Language Models
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: Custom Link
+ url: http://example.org
 
 
 url_pdf: 'uploads/resume.pdf'
