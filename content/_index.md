@@ -50,7 +50,7 @@ sections:
           - Publications
         exclude_featured: false
     design:
-      view: citation
+      view: Publications
  
 
 ---
