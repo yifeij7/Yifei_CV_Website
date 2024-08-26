@@ -6,8 +6,18 @@ title: 'Yifei Jin'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Cheng Chen
+  - Ziwen Wang
+  - Jiajing Wu
+  - Zhengtao Deng
+  - Tao Zhang
+  - Zhongmin Zhu
+  - Yifei Jin
+  - Benjamin Lew 
+  - Indrajit Srivastava
+  - Zuodong Liang
+  - Shuming Nie
+  - Viktor Gruev
 
 # Author notes (optional)
 author_notes:
