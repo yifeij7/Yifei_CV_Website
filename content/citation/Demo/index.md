@@ -39,7 +39,7 @@ publication_types: ['paper-journal']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In Science Advances
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: Imaging and identifying target signatures and biomedical markers in the ultraviolet (UV) spectrum is broadly important to medical imaging, military target tracking, remote sensing, and industrial automation. 
 
 
 # Summary. An optional shortened abstract.
@@ -52,10 +52,9 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
-links:
- - name: Custom Link
-   url: http://example.org
-
+# links:
+# - name: Custom Link
+#   url: http://example.org
 
 url_pdf: 'uploads/resume.pdf'
 url_source: 'https://www.science.org/doi/full/10.1126/sciadv.adk3860'
