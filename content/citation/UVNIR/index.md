@@ -48,14 +48,9 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_pdf: 'uploads/resume.pdf'
+url_source: 'https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-29/issue-7/076005/Convolutional-neural-network-advances-in-demosaicing-for-fluorescent-cancer-imaging/10.1117/1.JBO.29.7.076005.full'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
