@@ -55,8 +55,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'uploads/conference-paper.pdf'
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'uploads/resume.pdf'
+url_source: 'https://www.science.org/doi/full/10.1126/sciadv.adk3860'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
