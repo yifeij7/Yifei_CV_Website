@@ -47,10 +47,10 @@ sections:
       text: ""
       filters:
         folders:
-          - Publications
+          - citation
         exclude_featured: false
     design:
-      view: Publications
+      view: citation
  
 
 ---
