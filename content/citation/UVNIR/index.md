@@ -32,8 +32,6 @@ publication_types: ['paper-journal']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In Journal of biomedical optics
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -75,12 +73,4 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Single-chip imaging devices featuring vertically stacked photodiodes and pixelated spectral filters are advancing multi-dye imaging methods for cancer surgeries, though this innovation comes with a compromise in spatial resolution. To mitigate this drawback, we developed a deep convolutional neural network (CNN) aimed at demosaicing the color and near-infrared (NIR) channels, with its performance validated on both pre-clinical and clinical datasets. We introduce an optimized deep CNN designed for demosaicing both color and NIR images obtained using a hexachromatic imaging sensor. A residual CNN was fine-tuned and trained on a dataset of color images and subsequently assessed on a series of dual-channel, color, and NIR images to demonstrate its enhanced performance compared with traditional bilinear interpolation. Our optimized CNN for demosaicing color and NIR images achieves a reduction in the mean square error by 37% for color and 40% for NIR, respectively, and enhances the structural dissimilarity index by 37% across both imaging modalities in pre-clinical data. In clinical datasets, the network improves the mean square error by 35% in color images and 42% in NIR images while enhancing the structural dissimilarity index by 39% in both imaging modalities.
