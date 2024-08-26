@@ -31,8 +31,6 @@ publication_types: ['paper-journal']
 publication: In Encyclopedia of Sensors and Biosensors
 publication_short: In Encyclopedia of Sensors and Biosensors
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -73,13 +71,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+This article aims to introduce implantable and wearable sensors and state-of-the-art assistive technologies in which these sensors are used in this diverse and growing field. In the introduction, we discuss the motivation behind and the need for assistive technologies from the perspective of social and economic benefits that will impact the population at large, both nationally and beyond. The next section covers augmentative and assistive communication systems for voice/speech recognition and language disorders. Section three reviews sensory aids for visual and auditory impairments. The following section elaborates on seating and transportation systems that include smart chair, smart walker/cane, and smart bed. Section five addresses the systems for manipulating and controlling the environment, such as tongue driven systems and eye-trackers. Sections on prosthetics and invasive and non-invasive brain-computer interfaces are discussed next.
