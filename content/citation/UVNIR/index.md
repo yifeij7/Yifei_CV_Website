@@ -45,14 +45,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'uploads/resume.pdf'
+url_pdf: 'uploads/CNN.pdf'
 url_source: 'https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-29/issue-7/076005/Convolutional-neural-network-advances-in-demosaicing-for-fluorescent-cancer-imaging/10.1117/1.JBO.29.7.076005.full'
 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 
   focal_point: ''
   preview_only: false
 

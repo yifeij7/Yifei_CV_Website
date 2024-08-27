@@ -55,7 +55,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'uploads/resume.pdf'
+url_pdf: 'uploads/UV.pdf'
 url_source: 'https://www.science.org/doi/full/10.1126/sciadv.adk3860'
 
 # Featured image

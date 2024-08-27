@@ -35,7 +35,6 @@ publication_short: In Encyclopedia of Sensors and Biosensors
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Large Language Models
 
 # Display this page in the Featured widget?
 featured: true
@@ -46,13 +45,12 @@ featured: true
 #   url: http://example.org
 
 
-url_pdf: 'uploads/resume.pdf'
 url_source: 'https://www.sciencedirect.com/science/article/pii/B9780128225486000728?via%3Dihub'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
