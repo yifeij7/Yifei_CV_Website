@@ -32,7 +32,7 @@ publication_types: ['paper-journal']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In Journal of biomedical optics
 
-Abstract: 
+abstract: 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
