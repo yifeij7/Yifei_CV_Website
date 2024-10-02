@@ -68,9 +68,9 @@ work:
     date_start: 2023-08-16
     date_end: 2023-12-16
     summary: |2-
-      - Instructed students in digital circuit design on FPGA, covering fundamental design concepts
-      - Taught SPI and I²C communication protocols, empowering students to integrate multiple sensors effectively 
-      - Led a final project where students designed a camera system based on FPGA, featuring real-time object tracking
+      - Instructed students in digital circuit design and verification on FPGA, covering fundamental design concepts
+      - Taught SPI and I²C communication protocols, empowering students to integrate multiple sensors effectively
+      - Led a final project where students designed and simulated a camera system based on FPGA through Verilog featuring real-time object tracking
   - position: Hardware Engineer
     company_name: Teradyne
     company_url: https://www.teradyne.com/
@@ -78,8 +78,8 @@ work:
     date_start: 2019-07-01
     date_end: 2021-04-11
     summary: |
-      - Developed power semiconductor DC testing instrument HVVI (high-voltage VI channel) module for UltraFlex Plus
-      - Designed verification software through VB to implement bring-up and verification tests of circuit designs 
+      - Participated in the development of power semiconductor DC testing instrument HVVI (high-voltage VI channel) module for UltraFLEXplus Semiconductor Test Platform 
+      - Designed verification software through VB to implement bring-up and verification tests of circuit designs
       - Solved circuit designing problems in harmonic, glitch, noise, and bandwidth limitations 
 
 # Skills
