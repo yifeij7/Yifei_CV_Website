@@ -89,12 +89,9 @@ skills:
     items:
       - name: Python
       - name: Verilog    
-      - name: OpenCV
       - name: C/C++
-
   - name: Software
     items:
-      - name: Vivado
       - name: Linux
       - name: MATLAB
       - name: Cadence 
@@ -103,13 +100,13 @@ skills:
       - name: Monochromator
       - name: Spectroscopy
       - name: Optomechanics  
-      - name: Integrating Sphere
+
   - name: Laboratories
     items:
       - name: SPI/I²C
       - name: PCB
       - name: Oscilloscope  
-      - name: Function Generator
+
   
 
 ---
