@@ -37,9 +37,10 @@ profiles:
 
 interests:
   - Camera System
-  - Cancer Imaging
-  - Computer Vision/Machine Learning
   - Hardware Engineering
+  - Optics
+  - Machine Learning/Computer Vision
+
 
 education:
   - area: Ph.D. Electrical and Computer Engineering
