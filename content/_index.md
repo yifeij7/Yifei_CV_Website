@@ -35,7 +35,11 @@ sections:
       title: '📚 Research Abstract'
       subtitle: ''
       text: |-
-        My research focuses on developing a multispectral camera system for labeled and label-free fluorescence cancer imaging. Inspired by the unique structure of the mantis shrimp's eye, this camera can simultaneously capture images across the UV, visible, and NIR spectrums. The system has significant implications for advancing image-guided surgery and intraoperative pathology. Based on the bioinspired camera, I also developed a lensless microscopy within the UV-Visible-NIR spectrum. By replacing expensive optical lenses with a holographic diffuser, the lensless microscopy achieves even higher resolution and enables three-dimensional imaging with a single shot. To optimize the bioinspired camera's image demosaicing, I designed and trained a 20-layer convolutional network with residual learning, significantly enhancing reconstructed image quality compared to traditional methods.
+        My research centers on developing bioinspired multispectral imaging systems for cancer diagnostics and surgical guidance. Drawing inspiration from the mantis shrimp’s compound eye, I designed a camera capable of simultaneously capturing ultraviolet, visible, and near-infrared bands. This platform enables both labeled and label-free fluorescence imaging, with strong implications for advancing image-guided surgery and intraoperative pathology.
+        
+        Building on this foundation, I created a lensless UV–Visible–NIR microscopy system that replaces costly optics with a holographic diffuser. This approach not only reduces hardware complexity but also achieves higher resolution and single-shot three-dimensional imaging.
+
+        To further enhance image reconstruction, I developed a 20-layer residual convolutional neural network tailored for multispectral demosaicing. Compared to conventional methods, this architecture significantly improves reconstruction fidelity, yielding higher-quality images critical for clinical translation.
 
 
 
