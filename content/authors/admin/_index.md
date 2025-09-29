@@ -37,7 +37,7 @@ profiles:
 
 interests:
   - Camera System
-  - Hardware Engineering
+  - OLED Display
   - Optics
   - Machine Learning/Computer Vision
 
