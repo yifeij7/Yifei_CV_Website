@@ -46,7 +46,7 @@ education:
   - area: Ph.D. Electrical and Computer Engineering
     institution: University of Illinois at Urbana-Champaign
     date_start: 2021-08-16
-    expected date_end: 2026-05-16
+    expected date_end: 2025-12-31
     summary: |
       - Graduate Research Assistant guided by Dr.Viktor Gruev
       - Designing and developing multispectral cameras for cancer imaging
@@ -62,6 +62,18 @@ education:
       - Secretary of Chinese Student Association 
 
 work:
+  - position: Display Electrical Engineer Intern
+    company_name: Teradyne
+    company_url: https://www.apple.com/
+    company_logo: ''
+    date_start: 2025-05-12
+    date_end: 2025-08-22
+    summary: |
+      - Improved OLED panel front-of-screen quality and lowered silicon cost by developing novel uniformity compensation methods
+      - Designed a TFT physics-based non-linear interpolation model for diverse operating conditions
+      - Collaborated with Module, Optics, and Silicon teams to align specs, build lab setups, and analyze results
+      - Led comprehensive brightness/color characterization guiding algorithm validation and design improvements
+      - Delivered solutions adopted cross-functionally, earning recognition from senior EE leadership
   - position: Graduate Teaching Assistant
     company_name: University of Illinois at Urbana-Champaign
     company_url: ''
@@ -69,9 +81,8 @@ work:
     date_start: 2023-08-16
     date_end: 2023-12-16
     summary: |2-
-      - Instructed students in digital circuit design and verification on FPGA, covering fundamental design concepts
-      - Taught SPI and I²C communication protocols, empowering students to integrate multiple sensors effectively
-      - Led a final project where students designed and simulated a camera system based on FPGA through Verilog featuring real-time object tracking
+      - Taught digital circuit design through FPGA, including Verilog coding and SPI/I²C protocols
+      - Mentored ~120 students on FPGA-based camera systems with real-time object tracking
   - position: Hardware Engineer
     company_name: Teradyne
     company_url: https://www.teradyne.com/
@@ -79,9 +90,9 @@ work:
     date_start: 2019-07-01
     date_end: 2021-04-11
     summary: |
-      - Participated in the development of power semiconductor DC testing instrument HVVI (high-voltage VI channel) module for UltraFLEXplus Semiconductor Test Platform 
-      - Designed verification software through VB to implement bring-up and verification tests of circuit designs
-      - Solved circuit designing problems in harmonic, glitch, noise, and bandwidth limitations 
+      - Developed high-voltage VI channel modules for power semiconductor DC testing on UltraFLEXplus ATE 
+      - Executed circuit bring-up/verification in VB, diagnosing and resolving circuit defects that improved stability and performance under demanding test conditions
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -108,7 +119,7 @@ skills:
       - name: PCB
       - name: Oscilloscope  
 
-  
+ 
 
 ---
 
