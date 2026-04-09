@@ -109,4 +109,4 @@ skills:
 ---
 
 ## About Me
-Ph.D. in Electrical & Computer Engineering at UIUC, specializing in camera systems, display hardware, optics, and ML/CV algorithms. I bring industry experience from Apple (OLED display algorithms) and Teradyne (circuit design and verification), alongside leading academic research in multispectral imaging for surgery and pathology. Passionate about bridging hardware and algorithms to drive real-world innovation in next-generation imaging and display technologies.
+Ph.D. in Electrical & Computer Engineering at UIUC. I bring industry experience from Apple (OLED display algorithms) and Teradyne (circuit design and verification), alongside leading academic research in multispectral imaging for surgery and pathology. Passionate about bridging hardware and algorithms to drive real-world innovation in next-generation imaging and display technologies.
