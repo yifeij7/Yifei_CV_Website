@@ -63,14 +63,19 @@ work:
     company_name: Apple
     company_url: https://www.apple.com/
     company_logo: ''
-    date_start: 2026-03-09
-    date_end: Present
+    date_start: 2025-05-12
   - position: Display Engineer Intern
     company_name: Apple
     company_url: https://www.apple.com/
     company_logo: ''
     date_start: 2025-05-12
     date_end: 2025-08-22
+  - position: Graduate Teaching Assistant
+    company_name: University of Illinois at Urbana-Champaign
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-08-16
+    date_end: 2023-12-16
   - position: Hardware Engineer
     company_name: Teradyne
     company_url: https://www.teradyne.com/
@@ -109,4 +114,4 @@ skills:
 ---
 
 ## About Me
-Ph.D. in Electrical & Computer Engineering at UIUC. I bring industry experience from Apple (OLED display algorithms) and Teradyne (circuit design and verification), alongside leading academic research in multispectral imaging for surgery and pathology. Passionate about bridging hardware and algorithms to drive real-world innovation in next-generation imaging and display technologies.
+Ph.D. in Electrical & Computer Engineering at UIUC, specializing in camera systems, display hardware, optics, and ML/CV algorithms. I bring industry experience from Apple (OLED display algorithms) and Teradyne (circuit design and verification), alongside leading academic research in multispectral imaging for surgery and pathology. Passionate about bridging hardware and algorithms to drive real-world innovation in next-generation imaging and display technologies.
