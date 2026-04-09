@@ -59,7 +59,7 @@ education:
       - Secretary of Chinese Student Association 
 
 work:
-  - position: Display Engineer Intern
+  - position: Display Engineer
     company_name: Apple
     company_url: https://www.apple.com/
     company_logo: ''
