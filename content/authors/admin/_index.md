@@ -15,12 +15,9 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: ECE Ph.D. Candidate
+role: Apple Display Engineer
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: University of Illinois at Urbana-Champaign
-    url: https://illinois.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -46,7 +43,7 @@ education:
   - area: Ph.D. Electrical and Computer Engineering
     institution: University of Illinois at Urbana-Champaign
     date_start: 2021-08-16
-    expected date_end: 2025-12-31
+    date_end: 2025-12-31
     summary: |
       - Graduate Research Assistant guided by Dr.Viktor Gruev
       - Designing and developing multispectral cameras for cancer imaging
@@ -62,8 +59,8 @@ education:
       - Secretary of Chinese Student Association 
 
 work:
-  - position: Display Electrical Engineer Intern
-    company_name: Teradyne
+  - position: Display Engineer Intern
+    company_name: Apple
     company_url: https://www.apple.com/
     company_logo: ''
     date_start: 2025-05-12
@@ -124,4 +121,4 @@ skills:
 ---
 
 ## About Me
-Ph.D. candidate in Electrical & Computer Engineering at UIUC (graduating Dec 2025), specializing in camera systems, display hardware, optics, and ML/CV algorithms. I bring industry experience from Apple (OLED display algorithms) and Teradyne (circuit design and verification), alongside leading academic research in multispectral imaging for surgery and pathology. Passionate about bridging hardware and algorithms to drive real-world innovation in next-generation imaging and display technologies.
+Ph.D. in Electrical & Computer Engineering at UIUC, specializing in camera systems, display hardware, optics, and ML/CV algorithms. I bring industry experience from Apple (OLED display algorithms) and Teradyne (circuit design and verification), alongside leading academic research in multispectral imaging for surgery and pathology. Passionate about bridging hardware and algorithms to drive real-world innovation in next-generation imaging and display technologies.
