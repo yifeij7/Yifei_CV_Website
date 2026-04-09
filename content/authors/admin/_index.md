@@ -63,32 +63,20 @@ work:
     company_name: Apple
     company_url: https://www.apple.com/
     company_logo: ''
+    date_start: 2026-03-09
+    date_end: Present
+  - position: Display Engineer Intern
+    company_name: Apple
+    company_url: https://www.apple.com/
+    company_logo: ''
     date_start: 2025-05-12
     date_end: 2025-08-22
-    summary: |
-      - Improved OLED panel front-of-screen quality and lowered silicon cost by developing novel uniformity compensation methods
-      - Designed a TFT physics-based non-linear interpolation model for diverse operating conditions
-      - Collaborated with Module, Optics, and Silicon teams to align specs, build lab setups, and analyze results
-      - Led comprehensive brightness/color characterization guiding algorithm validation and design improvements
-      - Delivered solutions adopted cross-functionally, earning recognition from senior EE leadership
-  - position: Graduate Teaching Assistant
-    company_name: University of Illinois at Urbana-Champaign
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-08-16
-    date_end: 2023-12-16
-    summary: |2-
-      - Taught digital circuit design through FPGA, including Verilog coding and SPI/I²C protocols
-      - Mentored ~120 students on FPGA-based camera systems with real-time object tracking
   - position: Hardware Engineer
     company_name: Teradyne
     company_url: https://www.teradyne.com/
     company_logo: ''
     date_start: 2019-07-01
     date_end: 2021-04-11
-    summary: |
-      - Developed high-voltage VI channel modules for power semiconductor DC testing on UltraFLEXplus ATE 
-      - Executed circuit bring-up/verification in VB, diagnosing and resolving circuit defects that improved stability and performance under demanding test conditions
 
 
 # Skills
