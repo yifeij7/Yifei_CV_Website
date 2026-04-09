@@ -64,6 +64,7 @@ work:
     company_url: https://www.apple.com/
     company_logo: ''
     date_start: 2025-05-12
+    date_end: ''
   - position: Display Engineer Intern
     company_name: Apple
     company_url: https://www.apple.com/
